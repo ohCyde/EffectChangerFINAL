@@ -1,0 +1,17 @@
+The Effect Changer is basically a patch that maps
+my HID buttons, my Quanba Obisidian, to different 
+effects inside of max. My right analog stick can 
+control a filebrowser that allows me to insert a song. 
+While the face buttons control different effects 
+linked to the SfPlay and BEAP effects. I also routed the left and right analog 
+
+Square- Reverb 1
+X- Flanger
+Circle- Reverb 2
+Triangle- Chorus
+
+
+Change the mode button to alternate 
+between left stick and right stick
+Left Stick(Green)- Speed
+Right Stick(Red)- Pitch
